@@ -1,16 +1,22 @@
-### Hi there 👋
-
 <!--
 **sebaspont/sebaspont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Hello world! 👋
+
+I'am Sebastián Pont Vergés, a junior Full Stack Developer graduated from Le Wagon Web Development Bootcamp in September 2023.
+
+Feel free to browse through my repository and to check out the following project I worked on with my colleagues and friends [Malte Asmuth](https://github.com/malteasmuth), [Romeo Asinari di San Marzano Alonso](https://github.com/berlincoders), and [Victor Loginov](https://github.com/thegroosalugg):
+
+-[Treasurekeeper Website] (http://www.treasurekeeper.online)
+
+<h4 align="center">My tech stack:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,html,css,bootstrap,sass,js,figma,rails,ruby,sqlite" />
+  </a>
+</p>
+
+
+
+
